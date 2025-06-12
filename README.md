@@ -1,2 +1,2 @@
 # Google-Managed-Prometheus-Flask-Grafana
-This project consists of deploying a sample Flask application, using Google Managed Prometheus to monitor the metrics and Grafana to visualize the monitoring data.
+This project involves deploying a sample Flask application, monitoring its metrics with Google Managed Prometheus and visualizing the data with Grafana.
